@@ -1,1 +1,1 @@
-# parcel-homework
+# goit-js-hw-08
